@@ -8,7 +8,7 @@ Main page:
 Login page:
 ![camp3](https://user-images.githubusercontent.com/38035451/114449490-73ee3200-9bdd-11eb-8e47-e00eea79ae11.PNG)
 
-Campground review:
+Grassy Camp campground review list:
 ![camp4](https://user-images.githubusercontent.com/38035451/114449498-76508c00-9bdd-11eb-956a-6811f5f048e2.png)
 
 Create a new campground and add to Mongo database:
